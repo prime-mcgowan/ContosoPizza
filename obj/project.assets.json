@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lauramcgowan/tier2/ContosoPizza/ContosoPizza.csproj",
+      "projectUniqueName": "/Users/lauramcgowan/tier2/week15/ContosoPizza/ContosoPizza.csproj",
       "projectName": "ContosoPizza",
-      "projectPath": "/Users/lauramcgowan/tier2/ContosoPizza/ContosoPizza.csproj",
+      "projectPath": "/Users/lauramcgowan/tier2/week15/ContosoPizza/ContosoPizza.csproj",
       "packagesPath": "/Users/lauramcgowan/.nuget/packages/",
-      "outputPath": "/Users/lauramcgowan/tier2/ContosoPizza/obj/",
+      "outputPath": "/Users/lauramcgowan/tier2/week15/ContosoPizza/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lauramcgowan/.nuget/NuGet/NuGet.Config"
